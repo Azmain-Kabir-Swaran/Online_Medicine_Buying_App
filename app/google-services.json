@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17734392654",
+    "firebase_url": "https://online-medicine-961ae.firebaseio.com",
+    "project_id": "online-medicine-961ae",
+    "storage_bucket": "online-medicine-961ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17734392654:android:107034f5579d4afba3dc1f",
+        "android_client_info": {
+          "package_name": "com.example.myapp.onlinemedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17734392654-35och94aqigkpm2590d9chs93i0sa3hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp.onlinemedicine",
+            "certificate_hash": "a06ca7b1f0ab43859a4d549f8ae4207ad297dbb7"
+          }
+        },
+        {
+          "client_id": "17734392654-abib447i5ko1pnoucguigfbj3chavvn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7ZZsFeCuFMXJ7a35gApFiKd-8NIA-yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17734392654-abib447i5ko1pnoucguigfbj3chavvn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
