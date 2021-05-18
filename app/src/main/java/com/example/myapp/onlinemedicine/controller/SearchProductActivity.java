@@ -41,17 +41,6 @@ public class SearchProductActivity extends AppCompatActivity {
         searchList.setLayoutManager(new LinearLayoutManager(SearchProductActivity.this));
         fer = (ImageView) findViewById(R.id.fer);
 
-//        fer.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(SearchProductActivity.this, HomeActivity.class);
-//                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-//                startActivity(intent);
-//
-//
-//            }
-//        });
-
         fer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view)
